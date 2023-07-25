@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hezhiqiang22
+- 👀 I’m interested in Java.
+- Java enthusiast and Computer Science student.
+- Dedicated to improving and contributing to the coding community.
